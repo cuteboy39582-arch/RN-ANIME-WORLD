@@ -1,0 +1,18 @@
+{
+  "sessions": {
+    "rn_owner_863558a5109058174d77772c2c4c11bce375de915c279e85bf27f6d885b483bb": {
+      "token": "rn_owner_863558a5109058174d77772c2c4c11bce375de915c279e85bf27f6d885b483bb",
+      "uid": "39090357",
+      "username": "RN Owner",
+      "createdAt": "2026-11-03T11:25:17.001Z",
+      "expiresAt": 1794309917001
+    },
+    "rn_owner_7349a60f3fc1e4b560c0d0b769f5ec610d620b6642d97498d1fd2a8211f2ac0f": {
+      "token": "rn_owner_7349a60f3fc1e4b560c0d0b769f5ec610d620b6642d97498d1fd2a8211f2ac0f",
+      "uid": "39090357",
+      "username": "RN Owner",
+      "createdAt": "2026-11-03T11:25:30.161Z",
+      "expiresAt": 1794309930161
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "RN ANIME WORLD",
+  "description": "Premium anime streaming and discovery platform featuring Hindi, Tamil, Telugu dubbed anime, movies, seasons, episodes, and rich catalog discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

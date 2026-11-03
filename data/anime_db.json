@@ -1,0 +1,1050 @@
+{
+  "users": [
+    {
+      "id": "admin-1",
+      "username": "RN Admin",
+      "email": "admin@rnanime.world",
+      "role": "admin",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=100&auto=format&fit=crop&q=80",
+      "createdAt": "2026-11-03T10:44:00.011Z"
+    },
+    {
+      "id": "user-1",
+      "username": "AnimeOtaku",
+      "email": "user@rnanime.world",
+      "role": "user",
+      "avatar": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?w=100&auto=format&fit=crop&q=80",
+      "createdAt": "2026-11-03T10:44:00.011Z"
+    }
+  ],
+  "anime": [
+    {
+      "id": "solo-leveling",
+      "title": "Solo Leveling: Arise",
+      "altTitle": "俺だけレベルアップな件 (Shadow Monarch)",
+      "synopsis": "In a world where hunters awakened with supernatural abilities battle deadly monsters, Sung Jinwoo, the weakest hunter of all mankind, is fatally injured in a high-rank double dungeon. Moments from death, a mysterious quest window appears before him, offering the unique power to level up infinitely and summon an army of shadows.",
+      "poster": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=600&auto=format&fit=crop&q=80",
+      "coverBanner": "/src/assets/images/hero_shadow_monarch_1793701898250.jpg",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "releaseYear": 2024,
+      "studio": "A-1 Pictures",
+      "status": "Ongoing",
+      "type": "TV Series",
+      "rating": 9.3,
+      "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "English",
+        "Japanese"
+      ],
+      "totalSeasons": 2,
+      "totalEpisodes": 24,
+      "featured": true,
+      "trendingScore": 99,
+      "views": 489200,
+      "seasons": [
+        {
+          "id": "sl-s1",
+          "animeId": "solo-leveling",
+          "seasonNumber": 1,
+          "title": "Season 1: Awakening",
+          "episodeCount": 12,
+          "episodes": [
+            {
+              "id": "sl-s1-e1",
+              "seasonId": "sl-s1",
+              "animeId": "solo-leveling",
+              "episodeNumber": 1,
+              "title": "I'm Used to It",
+              "thumbnail": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=600&auto=format&fit=crop&q=80",
+              "duration": "23m 45s",
+              "languages": [
+                "Hindi",
+                "Tamil",
+                "Telugu",
+                "English",
+                "Japanese"
+              ],
+              "videoUrl": "/sample-stream.mp4",
+              "isAvailable": true,
+              "synopsis": "Sung Jinwoo undertakes another raid with his hunter party, unaware that the dual dungeon holds secrets that will alter the fate of humanity."
+            },
+            {
+              "id": "sl-s1-e2",
+              "seasonId": "sl-s1",
+              "animeId": "solo-leveling",
+              "episodeNumber": 2,
+              "title": "If I Had One More Chance",
+              "thumbnail": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&auto=format&fit=crop&q=80",
+              "duration": "24m 10s",
+              "languages": [
+                "Hindi",
+                "Tamil",
+                "Telugu",
+                "English",
+                "Japanese"
+              ],
+              "videoUrl": "/sample-stream.mp4",
+              "isAvailable": true,
+              "synopsis": "Faced with the God Statue rules, the hunters panic while Jinwoo desperately decodes the commandments."
+            },
+            {
+              "id": "sl-s1-e3",
+              "seasonId": "sl-s1",
+              "animeId": "solo-leveling",
+              "episodeNumber": 3,
+              "title": "It's Like a Game",
+              "thumbnail": "https://images.unsplash.com/photo-1563089145-599997674d42?w=600&auto=format&fit=crop&q=80",
+              "duration": "23m 50s",
+              "languages": [
+                "Hindi",
+                "Tamil",
+                "Telugu",
+                "English",
+                "Japanese"
+              ],
+              "videoUrl": "/sample-stream.mp4",
+              "isAvailable": true,
+              "synopsis": "Jinwoo wakes in a hospital to find a glowing System HUD only he can see."
+            },
+            {
+              "id": "sl-s1-e4",
+              "seasonId": "sl-s1",
+              "animeId": "solo-leveling",
+              "episodeNumber": 4,
+              "title": "I've Gotta Get Stronger",
+              "thumbnail": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=600&auto=format&fit=crop&q=80",
+              "duration": "24m 02s",
+              "languages": [
+                "Hindi",
+                "Tamil",
+                "Telugu",
+                "English",
+                "Japanese"
+              ],
+              "videoUrl": "/sample-stream.mp4",
+              "isAvailable": true,
+              "synopsis": "Entering his first solo dungeon key in the subway, Jinwoo tests his new strength."
+            }
+          ]
+        },
+        {
+          "id": "sl-s2",
+          "animeId": "solo-leveling",
+          "seasonNumber": 2,
+          "title": "Season 2: Arise from the Shadow",
+          "episodeCount": 12,
+          "episodes": [
+            {
+              "id": "sl-s2-e1",
+              "seasonId": "sl-s2",
+              "animeId": "solo-leveling",
+              "episodeNumber": 1,
+              "title": "You Aren’t An E-Rank Anymore",
+              "thumbnail": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=600&auto=format&fit=crop&q=80",
+              "duration": "24m 20s",
+              "languages": [
+                "Hindi",
+                "Tamil",
+                "Telugu",
+                "English",
+                "Japanese"
+              ],
+              "videoUrl": "/sample-stream.mp4",
+              "isAvailable": true,
+              "synopsis": "The Hunter Association must officially reassess Jinwoo’s magical power."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "demon-slayer",
+      "title": "Demon Slayer: Kimetsu no Yaiba",
+      "altTitle": "鬼滅の刃 (Blade of Demon Destruction)",
+      "synopsis": "In Taisho-era Japan, Tanjiro Kamado lives a peaceful life until his family is slaughtered by demons and his sister Nezuko is turned into a demon. Tanjiro resolves to become a demon slayer to turn his sister back into a human and avenge his fallen kin.",
+      "poster": "https://images.unsplash.com/photo-1563089145-599997674d42?w=600&auto=format&fit=crop&q=80",
+      "coverBanner": "/src/assets/images/hero_blade_storm_1793701898583.jpg",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "releaseYear": 2019,
+      "studio": "ufotable",
+      "status": "Ongoing",
+      "type": "TV Series",
+      "rating": 9.2,
+      "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "English",
+        "Japanese"
+      ],
+      "totalSeasons": 4,
+      "totalEpisodes": 55,
+      "featured": true,
+      "trendingScore": 98,
+      "views": 612400,
+      "seasons": [
+        {
+          "id": "ds-s1",
+          "animeId": "demon-slayer",
+          "seasonNumber": 1,
+          "title": "Tanjiro Kamado, Unwavering Resolve Arc",
+          "episodeCount": 26,
+          "episodes": [
+            {
+              "id": "ds-s1-e1",
+              "seasonId": "ds-s1",
+              "animeId": "demon-slayer",
+              "episodeNumber": 1,
+              "title": "Cruelty",
+              "thumbnail": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=600&auto=format&fit=crop&q=80",
+              "duration": "23m 35s",
+              "languages": [
+                "Hindi",
+                "Tamil",
+                "Telugu",
+                "English",
+                "Japanese"
+              ],
+              "videoUrl": "/sample-stream.mp4",
+              "isAvailable": true,
+              "synopsis": "Tanjiro returns from selling charcoal to find tragedy at his mountain home."
+            },
+            {
+              "id": "ds-s1-e2",
+              "seasonId": "ds-s1",
+              "animeId": "demon-slayer",
+              "episodeNumber": 2,
+              "title": "Trainer Sakonji Urokodaki",
+              "thumbnail": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&auto=format&fit=crop&q=80",
+              "duration": "23m 40s",
+              "languages": [
+                "Hindi",
+                "Tamil",
+                "Telugu",
+                "English",
+                "Japanese"
+              ],
+              "videoUrl": "/sample-stream.mp4",
+              "isAvailable": true,
+              "synopsis": "Tanjiro and Nezuko head toward Mt. Sagiri at Giyu Tomioka’s instruction."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cyberpunk-samurai",
+      "title": "Cyber Samurai 2088",
+      "altTitle": "サイバーサムライ (Neon Edge)",
+      "synopsis": "In the towering, rain-slicked mega-city of Neo-Tokyo, a lone cybernetic swordsman rogue battles mega-corporations that control human consciousness. Armed with an overcharged hyper-plasma katana and military-grade synaptic augments, he cuts a path through criminal syndicates.",
+      "poster": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=600&auto=format&fit=crop&q=80",
+      "coverBanner": "/src/assets/images/hero_cyber_samurai_1793701898255.jpg",
+      "genres": [
+        "Action",
+        "Sci-Fi",
+        "Cyberpunk"
+      ],
+      "releaseYear": 2024,
+      "studio": "Studio Trigger x RN Works",
+      "status": "Ongoing",
+      "type": "TV Series",
+      "rating": 9,
+      "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "English",
+        "Japanese"
+      ],
+      "totalSeasons": 1,
+      "totalEpisodes": 10,
+      "featured": true,
+      "trendingScore": 96,
+      "views": 342100,
+      "seasons": [
+        {
+          "id": "cs-s1",
+          "animeId": "cyberpunk-samurai",
+          "seasonNumber": 1,
+          "title": "Season 1: Neon Protocol",
+          "episodeCount": 10,
+          "episodes": [
+            {
+              "id": "cs-s1-e1",
+              "seasonId": "cs-s1",
+              "animeId": "cyberpunk-samurai",
+              "episodeNumber": 1,
+              "title": "Rooftop Awakening",
+              "thumbnail": "https://images.unsplash.com/photo-1563089145-599997674d42?w=600&auto=format&fit=crop&q=80",
+              "duration": "25m 12s",
+              "languages": [
+                "Hindi",
+                "Tamil",
+                "Telugu",
+                "English",
+                "Japanese"
+              ],
+              "videoUrl": "/sample-stream.mp4",
+              "isAvailable": true,
+              "synopsis": "A hit goes wrong above the neon grid of Shinjuku Sector 9."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dragon-sorcerer",
+      "title": "Dragon Sorcerer: Celestial Saga",
+      "altTitle": "蒼竜の魔導師 (Celestial Mage)",
+      "synopsis": "When the ancient celestial dragons awaken from their thousand-year slumber, young astral archmage Elyra must forge a blood pact with the azure storm dragon to prevent the realm from collapsing into primordial chaos.",
+      "poster": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=600&auto=format&fit=crop&q=80",
+      "coverBanner": "/src/assets/images/hero_dragon_sorcerer_1793701898049.jpg",
+      "genres": [
+        "Fantasy",
+        "Adventure",
+        "Action"
+      ],
+      "releaseYear": 2024,
+      "studio": "Mappa",
+      "status": "Ongoing",
+      "type": "TV Series",
+      "rating": 9.1,
+      "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "English",
+        "Japanese"
+      ],
+      "totalSeasons": 1,
+      "totalEpisodes": 12,
+      "featured": true,
+      "trendingScore": 94,
+      "views": 290800,
+      "seasons": [
+        {
+          "id": "ds-saga-s1",
+          "animeId": "dragon-sorcerer",
+          "seasonNumber": 1,
+          "title": "Season 1: Astral Storm",
+          "episodeCount": 12,
+          "episodes": [
+            {
+              "id": "dss-s1-e1",
+              "seasonId": "ds-saga-s1",
+              "animeId": "dragon-sorcerer",
+              "episodeNumber": 1,
+              "title": "Invocation of the Storm",
+              "thumbnail": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=600&auto=format&fit=crop&q=80",
+              "duration": "24m 05s",
+              "languages": [
+                "Hindi",
+                "Tamil",
+                "Telugu",
+                "English",
+                "Japanese"
+              ],
+              "videoUrl": "/sample-stream.mp4",
+              "isAvailable": true,
+              "synopsis": "At the precipice of Mount Zephyr, Elyra draws celestial constellations into reality."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jujutsu-kaisen",
+      "title": "Jujutsu Kaisen",
+      "altTitle": "呪術廻戦 (Sorcery Fight)",
+      "synopsis": "Yuji Itadori, a boy with tremendous physical strength, swallows the finger of Ryomen Sukuna, a legendary Curse, to save a friend. Guided by Satoru Gojo, he enrolls in Tokyo Jujutsu High to fight terrifying curses alongside his fellow sorcerers.",
+      "poster": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=600&auto=format&fit=crop&q=80",
+      "coverBanner": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1600&auto=format&fit=crop&q=80",
+      "genres": [
+        "Action",
+        "Supernatural",
+        "Fantasy"
+      ],
+      "releaseYear": 2020,
+      "studio": "MAPPA",
+      "status": "Ongoing",
+      "type": "TV Series",
+      "rating": 9.2,
+      "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "English",
+        "Japanese"
+      ],
+      "totalSeasons": 2,
+      "totalEpisodes": 47,
+      "featured": false,
+      "trendingScore": 97,
+      "views": 720000,
+      "seasons": [
+        {
+          "id": "jjk-s1",
+          "animeId": "jujutsu-kaisen",
+          "seasonNumber": 1,
+          "title": "Season 1",
+          "episodeCount": 24,
+          "episodes": [
+            {
+              "id": "jjk-s1-e1",
+              "seasonId": "jjk-s1",
+              "animeId": "jujutsu-kaisen",
+              "episodeNumber": 1,
+              "title": "Ryomen Sukuna",
+              "thumbnail": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=600&auto=format&fit=crop&q=80",
+              "duration": "24m 15s",
+              "languages": [
+                "Hindi",
+                "Tamil",
+                "Telugu",
+                "English",
+                "Japanese"
+              ],
+              "videoUrl": "/sample-stream.mp4",
+              "isAvailable": true,
+              "synopsis": "Yuji visits his grandfather at the hospital before coming face to face with Megumi and a deadly curse."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "attack-on-titan",
+      "title": "Attack on Titan",
+      "altTitle": "進撃の巨人 (Shingeki no Kyojin)",
+      "synopsis": "Humanity lives enclosed within enormous walls to protect themselves from gigantic man-eating Titans. After a colossal titan breaches the outermost wall, Eren Yeager vows to cleanse the earth of every last Titan.",
+      "poster": "https://images.unsplash.com/photo-1569003339405-ea396a5a8a90?w=600&auto=format&fit=crop&q=80",
+      "coverBanner": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1600&auto=format&fit=crop&q=80",
+      "genres": [
+        "Action",
+        "Mystery",
+        "Drama"
+      ],
+      "releaseYear": 2013,
+      "studio": "Wit Studio / MAPPA",
+      "status": "Completed",
+      "type": "TV Series",
+      "rating": 9.5,
+      "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "English",
+        "Japanese"
+      ],
+      "totalSeasons": 4,
+      "totalEpisodes": 89,
+      "featured": false,
+      "trendingScore": 95,
+      "views": 890000,
+      "seasons": [
+        {
+          "id": "aot-s1",
+          "animeId": "attack-on-titan",
+          "seasonNumber": 1,
+          "title": "Season 1",
+          "episodeCount": 25,
+          "episodes": [
+            {
+              "id": "aot-s1-e1",
+              "seasonId": "aot-s1",
+              "animeId": "attack-on-titan",
+              "episodeNumber": 1,
+              "title": "To You, in 2000 Years: The Fall of Shiganshina, Part 1",
+              "thumbnail": "https://images.unsplash.com/photo-1569003339405-ea396a5a8a90?w=600&auto=format&fit=crop&q=80",
+              "duration": "24m 30s",
+              "languages": [
+                "Hindi",
+                "Tamil",
+                "Telugu",
+                "English",
+                "Japanese"
+              ],
+              "videoUrl": "/sample-stream.mp4",
+              "isAvailable": true,
+              "synopsis": "A peaceful hundred years comes to a horrifying end as a titan taller than the wall appears."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "your-name",
+      "title": "Your Name.",
+      "altTitle": "君の名は。 (Kimi no Na wa)",
+      "synopsis": "Two teenagers share a profound, magical connection upon discovering they are swapping bodies across time and distance. Things become even more complicated when the boy and girl decide to meet in person under a dazzling comet shower.",
+      "poster": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=600&auto=format&fit=crop&q=80",
+      "coverBanner": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1600&auto=format&fit=crop&q=80",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Fantasy"
+      ],
+      "releaseYear": 2016,
+      "studio": "CoMix Wave Films",
+      "status": "Completed",
+      "type": "Movie",
+      "rating": 9.4,
+      "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "English",
+        "Japanese"
+      ],
+      "totalSeasons": 1,
+      "totalEpisodes": 1,
+      "featured": false,
+      "trendingScore": 92,
+      "views": 540000,
+      "seasons": [
+        {
+          "id": "yn-m1",
+          "animeId": "your-name",
+          "seasonNumber": 1,
+          "title": "Movie",
+          "episodeCount": 1,
+          "episodes": [
+            {
+              "id": "yn-m1-e1",
+              "seasonId": "yn-m1",
+              "animeId": "your-name",
+              "episodeNumber": 1,
+              "title": "Your Name (Full Movie)",
+              "thumbnail": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=600&auto=format&fit=crop&q=80",
+              "duration": "1h 46m",
+              "languages": [
+                "Hindi",
+                "Tamil",
+                "Telugu",
+                "English",
+                "Japanese"
+              ],
+              "videoUrl": "/sample-stream.mp4",
+              "isAvailable": true,
+              "synopsis": "The full cinematic masterpiece directed by Makoto Shinkai."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "suzume",
+      "title": "Suzume",
+      "altTitle": "すずめの戸締まり (Suzume no Tojimari)",
+      "synopsis": "A 17-year-old high school girl named Suzume helps a mysterious young man close strange doors that are releasing disasters all across Japan.",
+      "poster": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=600&auto=format&fit=crop&q=80",
+      "coverBanner": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1600&auto=format&fit=crop&q=80",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Romance"
+      ],
+      "releaseYear": 2022,
+      "studio": "CoMix Wave Films",
+      "status": "Completed",
+      "type": "Movie",
+      "rating": 8.9,
+      "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "English",
+        "Japanese"
+      ],
+      "totalSeasons": 1,
+      "totalEpisodes": 1,
+      "featured": false,
+      "trendingScore": 91,
+      "views": 310000,
+      "seasons": [
+        {
+          "id": "sz-m1",
+          "animeId": "suzume",
+          "seasonNumber": 1,
+          "title": "Movie",
+          "episodeCount": 1,
+          "episodes": [
+            {
+              "id": "sz-m1-e1",
+              "seasonId": "sz-m1",
+              "animeId": "suzume",
+              "episodeNumber": 1,
+              "title": "Suzume (Full Movie)",
+              "thumbnail": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=600&auto=format&fit=crop&q=80",
+              "duration": "2h 02m",
+              "languages": [
+                "Hindi",
+                "Tamil",
+                "Telugu",
+                "English",
+                "Japanese"
+              ],
+              "videoUrl": "/sample-stream.mp4",
+              "isAvailable": true,
+              "synopsis": "Suzume embarks on a journey across Japan closing doors to prevent catastrophic quakes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spy-x-family",
+      "title": "SPY x FAMILY",
+      "altTitle": "スパイファミリー",
+      "synopsis": "A master spy under the alias Loid Forger must create a cover family to infiltrate an elite school. Unbeknownst to him, his adopted daughter is a telepath and his fake wife is a lethal assassin.",
+      "poster": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=600&auto=format&fit=crop&q=80",
+      "coverBanner": "https://images.unsplash.com/photo-1563089145-599997674d42?w=1600&auto=format&fit=crop&q=80",
+      "genres": [
+        "Comedy",
+        "Action",
+        "Shonen"
+      ],
+      "releaseYear": 2022,
+      "studio": "WIT Studio x CloverWorks",
+      "status": "Ongoing",
+      "type": "TV Series",
+      "rating": 8.8,
+      "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "English",
+        "Japanese"
+      ],
+      "totalSeasons": 2,
+      "totalEpisodes": 37,
+      "featured": false,
+      "trendingScore": 89,
+      "views": 410000,
+      "seasons": [
+        {
+          "id": "sxf-s1",
+          "animeId": "spy-x-family",
+          "seasonNumber": 1,
+          "title": "Season 1",
+          "episodeCount": 12,
+          "episodes": [
+            {
+              "id": "sxf-s1-e1",
+              "seasonId": "sxf-s1",
+              "animeId": "spy-x-family",
+              "episodeNumber": 1,
+              "title": "Operation Strix",
+              "thumbnail": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=600&auto=format&fit=crop&q=80",
+              "duration": "24m 10s",
+              "languages": [
+                "Hindi",
+                "Tamil",
+                "Telugu",
+                "English",
+                "Japanese"
+              ],
+              "videoUrl": "/sample-stream.mp4",
+              "isAvailable": true,
+              "synopsis": "Agent Twilight is tasked with an impossible mission requiring him to find a child and wife in 7 days."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "naruto-shippuden",
+      "title": "Naruto: Shippuden",
+      "altTitle": "ナルト 疾風伝 (Hurricane Chronicles)",
+      "synopsis": "After two and a half years of training with Jiraiya, Naruto Uzumaki returns to the Hidden Leaf Village stronger, determined to rescue Sasuke Uchiha from Orochimaru and face the looming threat of the Akatsuki.",
+      "poster": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=600&auto=format&fit=crop&q=80",
+      "coverBanner": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1600&auto=format&fit=crop&q=80",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Martial Arts"
+      ],
+      "releaseYear": 2007,
+      "studio": "Studio Pierrot",
+      "status": "Completed",
+      "type": "TV Series",
+      "rating": 9.1,
+      "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "English",
+        "Japanese"
+      ],
+      "totalSeasons": 21,
+      "totalEpisodes": 500,
+      "featured": false,
+      "trendingScore": 93,
+      "views": 950000,
+      "seasons": [
+        {
+          "id": "ns-s1",
+          "animeId": "naruto-shippuden",
+          "seasonNumber": 1,
+          "title": "Kazekage Rescue Mission",
+          "episodeCount": 32,
+          "episodes": [
+            {
+              "id": "ns-s1-e1",
+              "seasonId": "ns-s1",
+              "animeId": "naruto-shippuden",
+              "episodeNumber": 1,
+              "title": "Homecoming",
+              "thumbnail": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=600&auto=format&fit=crop&q=80",
+              "duration": "23m 12s",
+              "languages": [
+                "Hindi",
+                "Tamil",
+                "Telugu",
+                "English",
+                "Japanese"
+              ],
+              "videoUrl": "/sample-stream.mp4",
+              "isAvailable": true,
+              "synopsis": "Naruto returns to Konoha and reunites with Sakura and Master Kakashi."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "one-piece",
+      "title": "One Piece: Egghead Island",
+      "altTitle": "ワンピース (Wan Pīsu)",
+      "synopsis": "Monkey D. Luffy and his Straw Hat Pirates arrive on Egghead, the futuristic Island of the Future, where the world’s greatest scientific genius Dr. Vegapunk resides with technological wonders and ancient world secrets.",
+      "poster": "https://images.unsplash.com/photo-1563089145-599997674d42?w=600&auto=format&fit=crop&q=80",
+      "coverBanner": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1600&auto=format&fit=crop&q=80",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "releaseYear": 1999,
+      "studio": "Toei Animation",
+      "status": "Ongoing",
+      "type": "TV Series",
+      "rating": 9.3,
+      "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "English",
+        "Japanese"
+      ],
+      "totalSeasons": 21,
+      "totalEpisodes": 1100,
+      "featured": false,
+      "trendingScore": 98,
+      "views": 1200000,
+      "seasons": [
+        {
+          "id": "op-s21",
+          "animeId": "one-piece",
+          "seasonNumber": 21,
+          "title": "Egghead Arc",
+          "episodeCount": 45,
+          "episodes": [
+            {
+              "id": "op-s21-e1",
+              "seasonId": "op-s21",
+              "animeId": "one-piece",
+              "episodeNumber": 1089,
+              "title": "Entering a New Chapter! Luffy and Sabo’s Paths!",
+              "thumbnail": "https://images.unsplash.com/photo-1563089145-599997674d42?w=600&auto=format&fit=crop&q=80",
+              "duration": "23m 50s",
+              "languages": [
+                "Hindi",
+                "Tamil",
+                "Telugu",
+                "English",
+                "Japanese"
+              ],
+              "videoUrl": "/sample-stream.mp4",
+              "isAvailable": true,
+              "synopsis": "Luffy announces his ultimate dream to the Straw Hat crew."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chainsaw-man",
+      "title": "Chainsaw Man",
+      "altTitle": "チェンソーマン",
+      "synopsis": "Denji is a teenage boy living with a Chainsaw Devil named Pochita. Due to the debt his father left behind, he lives a bottom-of-the-barrel life harvesting devil corpses until he is betrayed and resurrected as Chainsaw Man.",
+      "poster": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=600&auto=format&fit=crop&q=80",
+      "coverBanner": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=1600&auto=format&fit=crop&q=80",
+      "genres": [
+        "Action",
+        "Supernatural",
+        "Thriller"
+      ],
+      "releaseYear": 2022,
+      "studio": "MAPPA",
+      "status": "Ongoing",
+      "type": "TV Series",
+      "rating": 8.9,
+      "languages": [
+        "Hindi",
+        "Tamil",
+        "English",
+        "Japanese"
+      ],
+      "totalSeasons": 1,
+      "totalEpisodes": 12,
+      "featured": false,
+      "trendingScore": 90,
+      "views": 380000,
+      "seasons": [
+        {
+          "id": "csm-s1",
+          "animeId": "chainsaw-man",
+          "seasonNumber": 1,
+          "title": "Season 1",
+          "episodeCount": 12,
+          "episodes": [
+            {
+              "id": "csm-s1-e1",
+              "seasonId": "csm-s1",
+              "animeId": "chainsaw-man",
+              "episodeNumber": 1,
+              "title": "Dog & Chainsaw",
+              "thumbnail": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=600&auto=format&fit=crop&q=80",
+              "duration": "24m 10s",
+              "languages": [
+                "Hindi",
+                "Tamil",
+                "English",
+                "Japanese"
+              ],
+              "videoUrl": "/sample-stream.mp4",
+              "isAvailable": true,
+              "synopsis": "Denji works as a Devil Hunter for the Yakuza alongside Pochita."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "death-note",
+      "title": "Death Note",
+      "altTitle": "デスノート",
+      "synopsis": "An intelligent high school student named Light Yagami stumbles upon a mysterious notebook dropped by a Shinigami: any human whose name is written in it dies. Light begins a crusade to rid the world of evil under the alias Kira.",
+      "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&auto=format&fit=crop&q=80",
+      "coverBanner": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1600&auto=format&fit=crop&q=80",
+      "genres": [
+        "Mystery",
+        "Psychological",
+        "Thriller"
+      ],
+      "releaseYear": 2006,
+      "studio": "Madhouse",
+      "status": "Completed",
+      "type": "TV Series",
+      "rating": 9.4,
+      "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "English",
+        "Japanese"
+      ],
+      "totalSeasons": 1,
+      "totalEpisodes": 37,
+      "featured": false,
+      "trendingScore": 94,
+      "views": 820000,
+      "seasons": [
+        {
+          "id": "dn-s1",
+          "animeId": "death-note",
+          "seasonNumber": 1,
+          "title": "Complete Series",
+          "episodeCount": 37,
+          "episodes": [
+            {
+              "id": "dn-s1-e1",
+              "seasonId": "dn-s1",
+              "animeId": "death-note",
+              "episodeNumber": 1,
+              "title": "Rebirth",
+              "thumbnail": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=600&auto=format&fit=crop&q=80",
+              "duration": "23m 30s",
+              "languages": [
+                "Hindi",
+                "Tamil",
+                "Telugu",
+                "English",
+                "Japanese"
+              ],
+              "videoUrl": "/sample-stream.mp4",
+              "isAvailable": true,
+              "synopsis": "Light finds the black notebook in the schoolyard and tests its lethal power."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ben-10-omniverse",
+      "title": "Ben 10: Omniverse",
+      "altTitle": "बेन 10 ओमनीवर्स (Hindi Dubbed Classics)",
+      "synopsis": "Ben Tennyson is ready to be a solo hero with his new Omnitrix, but Grandpa Max teams him up with Rook Blonko, an alien rookie Plumber. Together they explore the vast secret alien city beneath Bellwood.",
+      "poster": "https://images.unsplash.com/photo-1569003339405-ea396a5a8a90?w=600&auto=format&fit=crop&q=80",
+      "coverBanner": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?w=1600&auto=format&fit=crop&q=80",
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "releaseYear": 2012,
+      "studio": "Cartoon Network Studios",
+      "status": "Completed",
+      "type": "Cartoon",
+      "rating": 8.7,
+      "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "English"
+      ],
+      "totalSeasons": 8,
+      "totalEpisodes": 80,
+      "featured": false,
+      "trendingScore": 88,
+      "views": 450000,
+      "seasons": [
+        {
+          "id": "b10-s1",
+          "animeId": "ben-10-omniverse",
+          "seasonNumber": 1,
+          "title": "Season 1: A New Beginning",
+          "episodeCount": 10,
+          "episodes": [
+            {
+              "id": "b10-s1-e1",
+              "seasonId": "b10-s1",
+              "animeId": "ben-10-omniverse",
+              "episodeNumber": 1,
+              "title": "The More Things Change: Part 1",
+              "thumbnail": "https://images.unsplash.com/photo-1569003339405-ea396a5a8a90?w=600&auto=format&fit=crop&q=80",
+              "duration": "22m 15s",
+              "languages": [
+                "Hindi",
+                "Tamil",
+                "Telugu",
+                "English"
+              ],
+              "videoUrl": "/sample-stream.mp4",
+              "isAvailable": true,
+              "synopsis": "Ben tests his new Omnitrix and encounters the mysterious bounty hunter Khyber."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "avatar-tla",
+      "title": "Avatar: The Last Airbender",
+      "altTitle": "अवतार: द लास्ट एयरबेंडर",
+      "synopsis": "In a war-torn world of elemental bending, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar and bring peace to the four nations.",
+      "poster": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=600&auto=format&fit=crop&q=80",
+      "coverBanner": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1600&auto=format&fit=crop&q=80",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "releaseYear": 2005,
+      "studio": "Nickelodeon Animation",
+      "status": "Completed",
+      "type": "Cartoon",
+      "rating": 9.6,
+      "languages": [
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "English"
+      ],
+      "totalSeasons": 3,
+      "totalEpisodes": 61,
+      "featured": false,
+      "trendingScore": 96,
+      "views": 780000,
+      "seasons": [
+        {
+          "id": "atla-s1",
+          "animeId": "avatar-tla",
+          "seasonNumber": 1,
+          "title": "Book 1: Water",
+          "episodeCount": 20,
+          "episodes": [
+            {
+              "id": "atla-s1-e1",
+              "seasonId": "atla-s1",
+              "animeId": "avatar-tla",
+              "episodeNumber": 1,
+              "title": "The Boy in the Iceberg",
+              "thumbnail": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=600&auto=format&fit=crop&q=80",
+              "duration": "23m 40s",
+              "languages": [
+                "Hindi",
+                "Tamil",
+                "Telugu",
+                "English"
+              ],
+              "videoUrl": "/sample-stream.mp4",
+              "isAvailable": true,
+              "synopsis": "Katara and Sokka discover an energetic young airbender frozen inside an iceberg."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "favorites": [
+    {
+      "id": "fav-1",
+      "userId": "user-1",
+      "animeId": "solo-leveling",
+      "addedAt": "2026-11-03T10:44:00.011Z"
+    },
+    {
+      "id": "fav-2",
+      "userId": "user-1",
+      "animeId": "demon-slayer",
+      "addedAt": "2026-11-03T10:44:00.011Z"
+    }
+  ],
+  "watchHistory": [
+    {
+      "id": "wh-1",
+      "userId": "user-1",
+      "animeId": "solo-leveling",
+      "animeTitle": "Solo Leveling: Arise",
+      "animePoster": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=600&auto=format&fit=crop&q=80",
+      "seasonNumber": 1,
+      "episodeNumber": 1,
+      "episodeTitle": "I'm Used to It",
+      "progressSeconds": 740,
+      "durationSeconds": 1425,
+      "updatedAt": "2026-11-03T10:44:00.011Z"
+    }
+  ]
+}
